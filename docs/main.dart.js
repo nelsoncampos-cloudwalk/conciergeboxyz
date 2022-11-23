@@ -32258,7 +32258,7 @@ $2(a,b){return b.oh(new A.a10(a),new A.a11(a),new A.a12(a))},
 $S:123}
 A.a12.prototype={
 $2(a,b){A.XY(this.a)
-return A.Xd("Saldo acumaldo na caixinha: "+A.f(b)+" "+a,B.iU,null)},
+return A.Xd("Saldo acumulado na caixinha: "+A.f(b)+" "+a,B.iU,null)},
 $S:124}
 A.a10.prototype={
 $0(){A.XY(this.a)
